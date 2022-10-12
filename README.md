@@ -1,5 +1,5 @@
-# Proyecto del Primer Cuatrimestre Fundamentos de Programación (Curso  \<XX\>/\<YY\>)
-Autor/a: \<nombre del autor\>   uvus:\<uvus del autor\>
+# Proyecto del Primer Cuatrimestre Fundamentos de Programación (Curso  \<22\>/\<23\>)
+Autor/a: \<Max Cameron Corti\>   uvus:\<NRF5668\>
 
 Aquí debes añadir la descripción del dataset y un enunciado del dominio del proyecto.
 

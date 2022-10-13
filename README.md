@@ -7,7 +7,7 @@ Aquí debes añadir la descripción del dataset y un enunciado del dominio del p
 ## Estructura de las carpetas del proyecto
 
 * **/src**: Contiene los diferentes módulos de Python que conforman el proyecto.
-  * **\<modulo1.py\>**: Este modulo contiene una funcione que lea el archivo y para eso utilizo una namedtuple.
+  * **\<modulo1.py\>**: Este modulo contiene una función que lea el archivo y para eso utilizo una namedtuple.
   * **\<modulo1_test.py\>**: Para realizar el código aqui simplemente paso el nombre del archivo que contiene los datos sobre los autobuses por la función de leer ficheros, llamada del módulo 1.
   * **\<modulo2.py\>**: Aquí he definido varias funciones que sirven para convertir variables de tipos strings en enteros, floats, booleanos y datetimes. 
 * **/data**: Contiene el dataset o datasets del proyecto
